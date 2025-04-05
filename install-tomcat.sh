@@ -13,3 +13,4 @@ sudo cp ./tomcat-config/tomcat-users.xml /opt/apache-tomcat-9.*/conf/tomcat-user
 sudo rm -rf tomcat-config
 cd /opt/apache-tomcat-9.*
 sudo sh bin/startup.sh
+
